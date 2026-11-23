@@ -24,8 +24,8 @@ Gran parte de mi trabajo vive en repositorios privados (consultorías TI, tesis 
 | :--- | :--- | :--- | :--- |
 | **[APEX Fitness](https://www.apexfitness.cl/)** | `Producción` | Plataforma interna de uso diario para gimnasio: clientes, planes, inventario, acceso QR, rutinas y evaluaciones nutricionales. | `Next.js` `TypeScript` `Supabase` `shadcn/ui` |
 | **Vueltito** | `En construcción` | Punto de venta e inventario para almacenes de barrio con tres interfaces (caja, dueño y admin SaaS) y soporte offline. | `Next.js` `TypeScript` `Supabase` `Zod` |
-| **[Legacy Auto Studio](https://legayautostudio.vercel.app/)** | `Publicado` | Sitio web para estudio de detailing automotriz en Antofagasta, con galería real y contacto directo. | `Astro` `TypeScript` `GSAP` `Lenis` |
-| **[Grúas Bully](https://gruasbully.vercel.app/)** | `Publicado` | Landing de servicio de grúa 24/7 optimizada para solicitudes rápidas por WhatsApp. | `Astro` `TypeScript` `GSAP` |
+| **[Legacy Auto Studio](https://legayautostudio.vercel.app/)** | `En construcción` | Sitio web para estudio de detailing automotriz en Antofagasta, con galería real y contacto directo. | `Astro` `TypeScript` `GSAP` `Lenis` |
+| **[Grúas Bully](https://gruasbully.vercel.app/)** | `En construcción` | Landing de servicio de grúa 24/7 optimizada para solicitudes rápidas por WhatsApp. | `Astro` `TypeScript` `GSAP` |
 
 ---
 
