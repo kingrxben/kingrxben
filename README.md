@@ -1,85 +1,46 @@
-<div align="center">
+<img src="./assets/header.svg" alt="Rubén Macaya / Rxben — Fullstack, QA e IA aplicada" width="100%" />
 
-<!-- HERO BANNER ANIMADO CON NUGGET -->
-<img src="./assets/hero-banner.svg" alt="Hero Banner Fullstack + IA con Nugget" width="100%" />
+<br />
 
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://github.com/kingrxben" target="_blank">
-    <img src="https://img.shields.io/badge/@kingrxben-0B2246?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub @kingrxben" />
-  </a>
-  <!-- Descomenta y agrega tus enlaces cuando quieras:
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu.correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Contacto-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  -->
-</p>
-
-</div>
+**[Portafolio](https://portafolio-one-rho-77.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/rubenmacaya)** &nbsp;·&nbsp; **[rmacaya66@gmail.com](mailto:rmacaya66@gmail.com)**
 
 ---
 
-### 💙 Sobre mí
+### `01` / Proyectos
 
-¡Hola! Soy **Rubén Macaya** (me dicen **Rxben**). Me considero alguien **creativo, feliz y siempre construyendo cosas nuevas**. Hoy estoy enfocado en el desarrollo **Fullstack potenciado con IA**, mezclando ingeniería práctica, diseño limpio y curiosidad constante.
+Gran parte de mi trabajo vive en repositorios privados (consultorías TI, tesis y productos en desarrollo). Algunos proyectos públicos y en producción:
 
-> **Nota rápida:** La mayoría de mis repositorios (prácticas, tesis en consultorías TI y proyectos con IA) están en **privado 🔒**, así que este perfil resume mejor lo que construyo día a día — siempre bajo la atenta supervisión de **Nugget**, mi ninfa 🐦.
+| Proyecto | Estado | Descripción | Stack |
+| :--- | :--- | :--- | :--- |
+| **[APEX Fitness](https://www.apexfitness.cl/)** | `Producción` | Plataforma interna de uso diario para gimnasio: clientes, planes, inventario, acceso QR, rutinas y evaluaciones nutricionales. | `Next.js` `TypeScript` `Supabase` `shadcn/ui` |
+| **Vueltito** | `En construcción` | Punto de venta e inventario para almacenes de barrio con tres interfaces (caja, dueño y admin SaaS) y soporte offline. | `Next.js` `TypeScript` `Supabase` `Zod` |
+| **[Legacy Auto Studio](https://legayautostudio.vercel.app/)** | `Publicado` | Sitio web para estudio de detailing automotriz en Antofagasta, con galería real y contacto directo. | `Astro` `TypeScript` `GSAP` `Lenis` |
+| **[Grúas Bully](https://gruasbully.vercel.app/)** | `Publicado` | Landing de servicio de grúa 24/7 optimizada para solicitudes rápidas por WhatsApp. | `Astro` `TypeScript` `GSAP` |
 
-<br/>
+---
 
-<div align="center">
+### `02` / Recorrido
 
-<!-- BENTO GRID PERSONALIZADO -->
-<img src="./assets/bento-profile.svg" alt="Bento Grid: Perfil, Stack y Nugget" width="100%" />
+- **Consultorías TI (Prácticas & Tesis)** — Diseño y desarrollo de plataformas web reales con **Next.js, TypeScript, Supabase y PHP**, combinando arquitectura de datos, QA y flujos con IA.
+- **Ayudantía de Redes de Computadores (UCN)** — Clases prácticas y laboratorios de topologías, VLAN, OSPF, ACL y NAT en **Cisco Packet Tracer**.
+- **Bootcamp BHP · Coding Dojo Latam** — Certificación Full Stack en **Python + Flask** (Cinturón Negro).
 
-</div>
+---
 
-<br/>
+### `03` / Stack & Proceso
 
-### 🌐 Mi recorrido (`traceroute`)
+```text
+Interfaz          Next.js · React · Astro · TypeScript · Tailwind CSS · shadcn/ui · GSAP
+Lógica & Datos    Python · Flask · PHP · Laravel · C# · Supabase · MySQL · SQL · Zod
+Calidad & Flujo   QA (casos de prueba) · Vitest · Playwright · GitFlow · Jira
+IA aplicada       Claude Code (+ skills) · OpenAI Codex
+Redes             Cisco Packet Tracer · VLAN · OSPF · ACL · NAT
+```
 
-<div align="center">
+---
 
-<!-- TIMELINE ESTILO TRACEROUTE -->
-<img src="./assets/journey-timeline.svg" alt="Recorrido profesional estilo traceroute" width="100%" />
+### `04` / Detrás de la pantalla
 
-</div>
+Ingeniero en Computación e Informática de la **Universidad Católica del Norte** (Antofagasta, Chile). Trabajo entendiendo el problema antes de escribir código: definir estructura, datos, pruebas y luego iterar rápido con IA.
 
-- **Fullstack + IA:** Diseñando y desarrollando aplicaciones modernas integrando modelos de lenguaje, automatizaciones y flujos inteligentes.
-- **Consultorías TI (Prácticas & Tesis):** Desarrollo de plataformas reales con **Next.js, TypeScript, Supabase y PHP**.
-- **Ayudantía de Redes de Computadores:** Clases prácticas y laboratorios de routing, switching y topologías con **Cisco Packet Tracer**.
-- **Bootcamp BHP · Coding Dojo Latam:** Formación intensiva Fullstack en **Python + Flask**.
-
-<br/>
-
-### 🛠️ Stack & Herramientas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,supabase,php,python,flask,tailwind,postgres,git,github,vscode&theme=dark" alt="Tech Stack" />
-</div>
-
-<br/>
-
-### 🐍 Actividad en modo azul
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingrxben/kingrxben/output/github-snake-blue-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingrxben/kingrxben/output/github-snake-blue.svg" />
-    <img alt="GitHub Contribution Snake en tonos azules" src="https://raw.githubusercontent.com/kingrxben/kingrxben/output/github-snake-blue-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- FOOTER ANIMADO -->
-<img src="./assets/footer.svg" alt="Footer animado azul con Nugget" width="100%" />
-
-</div>
+Fuera del teclado, me acompaña **Nugget** — mi cacatúa ninfa ancestral.
