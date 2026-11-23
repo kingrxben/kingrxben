@@ -39,8 +39,6 @@ Redes             Cisco Packet Tracer · VLAN · OSPF · ACL · NAT
 
 ---
 
-### `04` / Detrás de la pantalla
+### `04` / Enfoque
 
 Ingeniero en Computación e Informática de la **Universidad Católica del Norte** (Antofagasta, Chile). Trabajo entendiendo el problema antes de escribir código: definir estructura, datos, pruebas y luego iterar rápido con IA.
-
-Fuera del teclado, me acompaña **Nugget** — mi cacatúa ninfa ancestral.
