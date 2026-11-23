@@ -1,4 +1,4 @@
-<svg width="880" height="196" viewBox="0 0 880 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="200" viewBox="0 0 880 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .sans {
@@ -10,103 +10,103 @@
     </style>
   </defs>
 
-  <!-- Outer container -->
-  <rect x="0.5" y="0.5" width="879" height="195" rx="6" fill="#09090B" stroke="#27272A" stroke-width="1"/>
+  <!-- Outer plate (matches header.svg) -->
+  <rect x="0.5" y="0.5" width="879" height="199" rx="6" fill="#09090B" stroke="#27272A" stroke-width="1"/>
 
-  <!-- Grid dividers -->
-  <line x1="440" y1="0" x2="440" y2="196" stroke="#1F1F23" stroke-width="1"/>
-  <line x1="0" y1="98" x2="880" y2="98" stroke="#1F1F23" stroke-width="1"/>
+  <!-- Architectural hairlines -->
+  <line x1="440" y1="0" x2="440" y2="200" stroke="#1F1F23" stroke-width="1"/>
+  <line x1="0" y1="100" x2="880" y2="100" stroke="#1F1F23" stroke-width="1"/>
 
-  <!-- QUADRANT 1: Interfaz (Crimson Red) -->
-  <rect x="20" y="18" width="3" height="14" rx="1" fill="#EF4444"/>
-  <text x="31" y="29" fill="#FCA5A5" font-size="11" font-weight="700" letter-spacing="1.3" class="mono">INTERFAZ</text>
+  <!-- QUADRANT 1: Interfaz (Crimson outline) -->
+  <circle cx="24" cy="24" r="3" fill="#DC2626"/>
+  <text x="36" y="28" fill="#F4F4F0" font-size="10.5" font-weight="600" letter-spacing="1.4" class="mono">01 / INTERFAZ</text>
 
   <g transform="translate(20, 42)" font-size="11.5" font-weight="500" class="sans">
-    <rect x="0" y="0" width="64" height="24" rx="4" fill="#1C0B0D" stroke="#7F1D1D"/>
+    <rect x="0" y="0" width="64" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="32" y="16" text-anchor="middle" fill="#F4F4F0">Next.js</text>
 
-    <rect x="72" y="0" width="58" height="24" rx="4" fill="#1C0B0D" stroke="#7F1D1D"/>
+    <rect x="72" y="0" width="58" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="101" y="16" text-anchor="middle" fill="#F4F4F0">React</text>
 
-    <rect x="138" y="0" width="56" height="24" rx="4" fill="#1C0B0D" stroke="#7F1D1D"/>
+    <rect x="138" y="0" width="56" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="166" y="16" text-anchor="middle" fill="#F4F4F0">Astro</text>
 
-    <rect x="202" y="0" width="82" height="24" rx="4" fill="#1C0B0D" stroke="#7F1D1D"/>
+    <rect x="202" y="0" width="82" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="243" y="16" text-anchor="middle" fill="#F4F4F0">TypeScript</text>
 
-    <rect x="292" y="0" width="76" height="24" rx="4" fill="#1C0B0D" stroke="#7F1D1D"/>
-    <text x="330" y="16" text-anchor="middle" fill="#F4F4F0">Tailwind</text>
+    <rect x="292" y="0" width="76" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="330" y="16" text-anchor="middle" fill="#D4D4D8">Tailwind</text>
 
-    <rect x="0" y="30" width="78" height="22" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="39" y="45" text-anchor="middle" fill="#D4D4D8" font-size="11">shadcn/ui</text>
+    <rect x="0" y="31" width="78" height="22" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="39" y="46" text-anchor="middle" fill="#A1A1AA" font-size="11">shadcn/ui</text>
 
-    <rect x="86" y="30" width="56" height="22" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="114" y="45" text-anchor="middle" fill="#D4D4D8" font-size="11">GSAP</text>
+    <rect x="86" y="31" width="56" height="22" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="114" y="46" text-anchor="middle" fill="#A1A1AA" font-size="11">GSAP</text>
   </g>
 
-  <!-- QUADRANT 2: Lógica y Datos (Coral / Amber from portfolio) -->
-  <rect x="460" y="18" width="3" height="14" rx="1" fill="#FF6748"/>
-  <text x="471" y="29" fill="#FDBA74" font-size="11" font-weight="700" letter-spacing="1.3" class="mono">LÓGICA Y DATOS</text>
+  <!-- QUADRANT 2: Lógica y Datos (Crimson/neutral outline) -->
+  <circle cx="464" cy="24" r="3" fill="#DC2626"/>
+  <text x="476" y="28" fill="#F4F4F0" font-size="10.5" font-weight="600" letter-spacing="1.4" class="mono">02 / LÓGICA Y DATOS</text>
 
   <g transform="translate(460, 42)" font-size="11.5" font-weight="500" class="sans">
-    <rect x="0" y="0" width="62" height="24" rx="4" fill="#1D100B" stroke="#9A3412"/>
+    <rect x="0" y="0" width="62" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="31" y="16" text-anchor="middle" fill="#F4F4F0">Python</text>
 
-    <rect x="70" y="0" width="54" height="24" rx="4" fill="#1D100B" stroke="#9A3412"/>
+    <rect x="70" y="0" width="54" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="97" y="16" text-anchor="middle" fill="#F4F4F0">Flask</text>
 
-    <rect x="132" y="0" width="80" height="24" rx="4" fill="#1D100B" stroke="#9A3412"/>
+    <rect x="132" y="0" width="80" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="172" y="16" text-anchor="middle" fill="#F4F4F0">Supabase</text>
 
-    <rect x="220" y="0" width="50" height="24" rx="4" fill="#1D100B" stroke="#9A3412"/>
-    <text x="245" y="16" text-anchor="middle" fill="#F4F4F0">PHP</text>
+    <rect x="220" y="0" width="50" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="245" y="16" text-anchor="middle" fill="#D4D4D8">PHP</text>
 
-    <rect x="278" y="0" width="66" height="24" rx="4" fill="#1D100B" stroke="#9A3412"/>
-    <text x="311" y="16" text-anchor="middle" fill="#F4F4F0">Laravel</text>
+    <rect x="278" y="0" width="66" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="311" y="16" text-anchor="middle" fill="#D4D4D8">Laravel</text>
 
-    <rect x="0" y="30" width="44" height="22" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="22" y="45" text-anchor="middle" fill="#D4D4D8" font-size="11">C#</text>
+    <rect x="0" y="31" width="44" height="22" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="22" y="46" text-anchor="middle" fill="#A1A1AA" font-size="11">C#</text>
 
-    <rect x="52" y="30" width="66" height="22" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="85" y="45" text-anchor="middle" fill="#D4D4D8" font-size="11">MySQL</text>
+    <rect x="52" y="31" width="66" height="22" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="85" y="46" text-anchor="middle" fill="#A1A1AA" font-size="11">MySQL</text>
 
-    <rect x="126" y="30" width="48" height="22" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="150" y="45" text-anchor="middle" fill="#D4D4D8" font-size="11">Zod</text>
+    <rect x="126" y="31" width="48" height="22" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="150" y="46" text-anchor="middle" fill="#A1A1AA" font-size="11">Zod</text>
   </g>
 
-  <!-- QUADRANT 3: Calidad y Flujo (Green status accent from portfolio) -->
-  <rect x="20" y="116" width="3" height="14" rx="1" fill="#3FB06A"/>
-  <text x="31" y="127" fill="#86EFAC" font-size="11" font-weight="700" letter-spacing="1.3" class="mono">CALIDAD Y PROCESO</text>
+  <!-- QUADRANT 3: Calidad y Proceso -->
+  <circle cx="24" cy="124" r="3" fill="#DC2626"/>
+  <text x="36" y="128" fill="#F4F4F0" font-size="10.5" font-weight="600" letter-spacing="1.4" class="mono">03 / CALIDAD Y PROCESO</text>
 
-  <g transform="translate(20, 140)" font-size="11.5" font-weight="500" class="sans">
-    <rect x="0" y="0" width="56" height="24" rx="4" fill="#0B1912" stroke="#166534"/>
+  <g transform="translate(20, 144)" font-size="11.5" font-weight="500" class="sans">
+    <rect x="0" y="0" width="56" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="28" y="16" text-anchor="middle" fill="#F4F4F0">Vitest</text>
 
-    <rect x="64" y="0" width="80" height="24" rx="4" fill="#0B1912" stroke="#166534"/>
+    <rect x="64" y="0" width="80" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="104" y="16" text-anchor="middle" fill="#F4F4F0">Playwright</text>
 
-    <rect x="152" y="0" width="90" height="24" rx="4" fill="#0B1912" stroke="#166534"/>
-    <text x="197" y="16" text-anchor="middle" fill="#F4F4F0">QA / Testing</text>
+    <rect x="152" y="0" width="90" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="197" y="16" text-anchor="middle" fill="#D4D4D8">QA / Testing</text>
 
-    <rect x="250" y="0" width="66" height="24" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="283" y="16" text-anchor="middle" fill="#D4D4D8">GitFlow</text>
+    <rect x="250" y="0" width="66" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="283" y="16" text-anchor="middle" fill="#A1A1AA">GitFlow</text>
 
-    <rect x="324" y="0" width="48" height="24" rx="4" fill="#141417" stroke="#27272A"/>
-    <text x="348" y="16" text-anchor="middle" fill="#D4D4D8">Jira</text>
+    <rect x="324" y="0" width="48" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
+    <text x="348" y="16" text-anchor="middle" fill="#A1A1AA">Jira</text>
   </g>
 
-  <!-- QUADRANT 4: IA y Redes (Cobalt Blue from portfolio) -->
-  <rect x="460" y="116" width="3" height="14" rx="1" fill="#3B82F6"/>
-  <text x="471" y="127" fill="#93C5FD" font-size="11" font-weight="700" letter-spacing="1.3" class="mono">IA APLICADA Y REDES</text>
+  <!-- QUADRANT 4: IA y Redes -->
+  <circle cx="464" cy="124" r="3" fill="#DC2626"/>
+  <text x="476" y="128" fill="#F4F4F0" font-size="10.5" font-weight="600" letter-spacing="1.4" class="mono">04 / IA Y REDES</text>
 
-  <g transform="translate(460, 140)" font-size="11.5" font-weight="500" class="sans">
-    <rect x="0" y="0" width="94" height="24" rx="4" fill="#0B1324" stroke="#1D4ED8"/>
+  <g transform="translate(460, 144)" font-size="11.5" font-weight="500" class="sans">
+    <rect x="0" y="0" width="94" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="47" y="16" text-anchor="middle" fill="#F4F4F0">Claude Code</text>
 
-    <rect x="102" y="0" width="102" height="24" rx="4" fill="#0B1324" stroke="#1D4ED8"/>
+    <rect x="102" y="0" width="102" height="24" rx="4" fill="#09090B" stroke="#DC2626" stroke-opacity="0.75"/>
     <text x="153" y="16" text-anchor="middle" fill="#F4F4F0">OpenAI Codex</text>
 
-    <rect x="212" y="0" width="136" height="24" rx="4" fill="#141417" stroke="#27272A"/>
+    <rect x="212" y="0" width="136" height="24" rx="4" fill="#09090B" stroke="#27272A"/>
     <text x="280" y="16" text-anchor="middle" fill="#D4D4D8">Cisco Packet Tracer</text>
   </g>
 </svg>
